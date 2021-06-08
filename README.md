@@ -1,5 +1,5 @@
 # Translator
-小巧的翻译软件，基于python3，学习python时练习所作
+小巧的翻译软件，基于python3，学习python时练习所作<br>
 PyCharm version: PyCharm 2021.1.2 (Professional Edition)<br>
 Python version: 3.9.1<br>
 此软件使用了爬虫获取有道翻译以及谷歌翻译结果<br>
